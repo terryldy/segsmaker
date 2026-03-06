@@ -33,7 +33,7 @@ SyS = get_ipython().system
 CD = os.chdir
 
 HOME = Path.home()
-SRC = HOME / '.gutris1'
+SRC = HOME / '.terryldy'
 CSS = SRC / 'setup.css'
 IMG = SRC / 'loading.png'
 MRK = SRC / 'marking.py'
