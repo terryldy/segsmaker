@@ -452,8 +452,8 @@ IMG = 'https://github.com/gutris1/segsmaker/raw/main/script/loading.png'
 HOME = Path(ENVHOME)
 TMP = Path(ENVBASE) / 'temp'
 
-PY = Path('/GUTRIS1')
-SRC = HOME / 'gutris1'
+PY = Path('/terryldy')
+SRC = HOME / 'terryldy'
 MRK = SRC / 'marking.py'
 KEY = SRC / 'api-key.json'
 MARKED = SRC / 'marking.json'
